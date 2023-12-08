@@ -1,0 +1,4 @@
+*.png
+*.net.*
+.DS_Store
+*.pyc
