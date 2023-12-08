@@ -40,6 +40,8 @@ hr_augementation = A.Compose(
     ]
 )
 
+
+
 lr_augementation = A.Compose(
     [
         A.RandomCrop(width=LOW_RES, height=LOW_RES),
